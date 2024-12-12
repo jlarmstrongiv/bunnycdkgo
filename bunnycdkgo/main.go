@@ -1,5 +1,5 @@
 // bunny-cdk
-package bunnycdk
+package bunnycdkgo
 
 import (
 	"reflect"

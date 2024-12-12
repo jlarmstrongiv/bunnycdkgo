@@ -1,8 +1,8 @@
-package bunnycdk
+package bunnycdkgo
 
 import (
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
-	_init_ "github.com/jlarmstrongiv/bunnycdkgo/bunnycdk/jsii"
+	_init_ "github.com/jlarmstrongiv/bunnycdkgo/bunnycdkgo/jsii"
 )
 
 type Hello interface {

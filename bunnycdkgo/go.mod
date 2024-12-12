@@ -1,4 +1,4 @@
-module github.com/jlarmstrongiv/bunnycdkgo/bunnycdk
+module github.com/jlarmstrongiv/bunnycdkgo/bunnycdkgo
 
 go 1.18
 
